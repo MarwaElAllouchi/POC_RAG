@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Concert à Versailles le 20-02-2026 ?",
+    "expected_uids": [80733527]
+  },
+  {
+    "question": " Stages de jeune à Versailles",
+    "expected_uids": [69103100]
+  },
+  {
+    "question": "formation à Aubervilliers le 20 février 2026 ?",
+    "expected_uids": [38409606]
+  },
+  {
+    "question": "Plan vélo à Boulogne-Billancourt ?",
+    "expected_uids": [50780315]
+  },
+  {
+    "question": "Visite-enquête le 28-10-2025 a Paris ?",
+    "expected_uids": [31116996]
+  },
+
+  {
+    "question": "Atelier couture à Montreuil le 19 février 2026 ?",
+    "expected_uids": [18589372]
+  },
+  {
+    "question": "Quels événements de musique à Paris le 19 février 2026 ?",
+    "expected_uids": [] 
+  },
+  {
+    "question": "Quels événements à Boulogne-Billancourt le 21 février 2026 ?",
+    "expected_uids": [50780315]
+  },
+  {
+    "question": " Concert  à Meudon le 30 Janvier 2026 ?",
+    "expected_uids": [42776113]
+  },
+  {
+    "question": "Mitry-Mory le 20 février 2026 ?",
+    "expected_uids": [63971788]
+  },
+  {
+    "question": "Plastique Danse Flore 2026?",
+    "expected_uids": [18045333]
+  },
+  {
+    "question": "Spectacle  à Goussainville le 31 Janvier 2026 ?",
+    "expected_uids": [51081412]
+  },
+  {
+    "question": "Atelier motricité à Meudon le 20 février 2026 ?",
+    "expected_uids": [59967898]
+  }
+
+]
